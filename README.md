@@ -24,18 +24,6 @@ An interactive web application that converts written text into high-quality spok
 * **JavaScript (ES6):** Utilizing the `SpeechSynthesisUtterance` and `window.speechSynthesis` API.
 
 
-## 📁 Project Structure
-
-```text
-
-TTS_Project/
-├── index.html    # Application structure
-├── style.css     # UI design and responsiveness
-├── script.js     # Voice logic and API integration
-└── README.md     # Project documentation
-
----
-
 ## ⚙️ Installation & Usage
 
 1. **Clone the Repository:**
@@ -47,4 +35,4 @@ cd TTS_Project
 
 
 ## Author 
-[GitHub] (http://GitHub.com/mdrajatech03)
+[GitHub](http://GitHub.com/mdrajatech03)
