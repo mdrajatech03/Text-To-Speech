@@ -23,16 +23,17 @@ An interactive web application that converts written text into high-quality spok
 * **CSS3:** For custom styling, glassmorphism effects, and button transitions.
 * **JavaScript (ES6):** Utilizing the `SpeechSynthesisUtterance` and `window.speechSynthesis` API.
 
----
+---Text
 
 ## 📁 Project Structure
+
+``
 
 TTS_Project/
 ├── index.html    # Application structure
 ├── style.css     # UI design and responsiveness
 ├── script.js     # Voice logic and API integration
 └── README.md     # Project documentation
-
 
 ---
 
