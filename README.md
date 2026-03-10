@@ -47,4 +47,4 @@ cd TTS_Project
 
 
 ## Author 
-[GitHub] (http://GitHub.com/mdrajatech03
+[GitHub] (http://GitHub.com/mdrajatech03)
