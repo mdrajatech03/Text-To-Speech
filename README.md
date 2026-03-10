@@ -2,6 +2,8 @@
 
 An interactive web application that converts written text into high-quality spoken audio. Built using the **Web Speech API**, this project allows users to customize their listening experience with various voices and speed controls.
 
+
+[Open on browser](https://mdrajatech03.github.io/Text-To-Speech/)
 ---
 
 ## 🚀 Key Features
