@@ -32,5 +32,10 @@ TTS_Project/
 └── README.md     # Project documentation
 
 
-## Installation
-git clone [https://github.com/mdrajatech03/TTS_Project.git](https://github.com/mdrajatech03/TTS_Project.git)
+---
+
+## ⚙️ Installation & Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/mdrajatech03/TTS_Project.git](https://github.com/mdrajatech03/TTS_Project.git)
