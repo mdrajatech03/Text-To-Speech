@@ -26,7 +26,7 @@ An interactive web application that converts written text into high-quality spok
 
 ## 📁 Project Structure
 
-``` text
+```text
 
 TTS_Project/
 ├── index.html    # Application structure
