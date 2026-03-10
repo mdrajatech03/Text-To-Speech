@@ -14,6 +14,9 @@ An interactive web application that converts written text into high-quality spok
 
 ---
 
+## Review 
+![Screenshot](screenshot.jpg)
+
 ## 🛠️ Tech Stack
 
 * **HTML5:** For the structured input and control layout.
@@ -24,7 +27,6 @@ An interactive web application that converts written text into high-quality spok
 
 ## 📁 Project Structure
 
-```text
 TTS_Project/
 ├── index.html    # Application structure
 ├── style.css     # UI design and responsiveness
@@ -39,3 +41,10 @@ TTS_Project/
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/mdrajatech03/TTS_Project.git](https://github.com/mdrajatech03/TTS_Project.git)
+
+## bash
+cd TTS_Project
+
+
+## Author 
+[GitHub] (http://GitHub.com/mdrajatech03
