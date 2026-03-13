@@ -1,25 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <link rel="icon" href="icon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text to Speech Convertor</title>
-    <link rel="stylesheet" href="style.css">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Advanced Text To Speech Converter</title>
+
+<link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
-    <div class="hero">
-        <h1>Text To Speech <span>Converter</span></h1>
-        <textarea placeholder="Write Anything Here..."></textarea>
-        <div class="row">
-            <select></select>
-            <button><img src="play.png">Listen</button>
-        </div>
-    </div>
 
-    <script src="script.js"></script>
+<div class="container">
+
+<h1>Text To Speech <span>Converter</span></h1>
+
+<textarea id="text" placeholder="Write your text here..."></textarea>
+
+<p class="counter">Characters : <span id="count">0</span></p>
+
+<select id="voice"></select>
+
+<div class="buttons">
+
+<button id="speak">Speak</button>
+<button id="stop">Stop</button>
+<button id="copy">Copy</button>
+<button id="clear">Clear</button>
+
+</div>
+
+<div class="sliders">
+
+<div class="slider">
+<label>Speed</label>
+<input id="speed" type="range" min="0.5" max="2" step="0.1" value="1">
+</div>
+
+<div class="slider">
+<label>Pitch</label>
+<input id="pitch" type="range" min="0" max="2" step="0.1" value="1">
+</div>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
 </body>
-
 </html>
-
-
