@@ -17,7 +17,8 @@ An interactive web application that converts written text into high-quality spok
 ---
 
 ## Review 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.text.jpg)
+![Screenshot](screenshot.text1.jpg)
 
 ## 🛠️ Tech Stack
 
